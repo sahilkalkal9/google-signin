@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/google-signin/static/css/main.366f7cca.css",
+    "main.css": "/google-signin/static/css/main.65f84566.css",
     "main.js": "/google-signin/static/js/main.967778f1.js",
     "static/js/787.59bb4d65.chunk.js": "/google-signin/static/js/787.59bb4d65.chunk.js",
     "static/media/google.png": "/google-signin/static/media/google.4e31b7a81e5efd6d1500.png",
     "static/media/logo.svg": "/google-signin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/google-signin/index.html",
-    "main.366f7cca.css.map": "/google-signin/static/css/main.366f7cca.css.map",
+    "main.65f84566.css.map": "/google-signin/static/css/main.65f84566.css.map",
     "main.967778f1.js.map": "/google-signin/static/js/main.967778f1.js.map",
     "787.59bb4d65.chunk.js.map": "/google-signin/static/js/787.59bb4d65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.366f7cca.css",
+    "static/css/main.65f84566.css",
     "static/js/main.967778f1.js"
   ]
 }
